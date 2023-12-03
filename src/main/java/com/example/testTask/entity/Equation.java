@@ -17,6 +17,7 @@ public class Equation {
     @Getter
     @Setter
     private double a;
+      
     @Getter
     @Setter
     private double b;
